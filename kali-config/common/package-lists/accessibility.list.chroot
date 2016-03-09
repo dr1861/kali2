@@ -1,0 +1,10 @@
+#################################################
+#	File: kali-config/common/package-lists/accessibility.list.chroot
+#	Author: Donald Raikes <don.raikes@nyu.edu>
+#	Date:	03/08/2016
+#################################################
+alsa-utils
+openssh-server
+espeak
+espeakup
+gnome-orca
